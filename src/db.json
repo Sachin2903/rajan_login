@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "company_code": 262,
+            "user_id": 1,
+            "password": "@123",
+            "email_id": "Rajan@123",
+            "contact_deatils": "8299",
+            "type_of_user": "SoftwearTesting"
+        },
+        {
+            "company_code": 11,
+            "user_id": 2,
+            "password": "@123",
+            "email_id": "Mohit@123",
+            "contact_deatils": "8299",
+            "type_of_user": "SoftwearTesting"
+        },
+        {
+            "company_code": 13,
+            "user_id": 20,
+            "password": "@123",
+            "email_id": "Mohit@123",
+            "contact_deatils": "8299",
+            "type_of_user": "SoftwearTesting"
+        },
+        {
+            "company_code": 1,
+            "user_id": 4,
+            "password": "@123",
+            "email_id": "Rajan@123",
+            "contact_deatils": "8299420962",
+            "type_of_user": "SoftwearTesting"
+        },
+        {
+            "company_code": 1,
+            "user_id": 6,
+            "password": "45678",
+            "email_id": "tuny567@gmail.com",
+            "contact_deatils": "6789054398",
+            "type_of_user": "hhh"
+        },
+        {
+            "company_code": 13,
+            "user_id": 60,
+            "password": "@123",
+            "email_id": "Mohit@123",
+            "contact_deatils": "8299",
+            "type_of_user": "SoftwearTesting"
+        },
+        {
+            "company_code": 13,
+            "user_id": 90,
+            "password": "123",
+            "email_id": "Mohit@123",
+            "contact_deatils": "8299",
+            "type_of_user": "SoftwearTesting"
+        }
+       
+    ],
+    "code": 200,
+    "message": null,
+    "error": false
+    
+}
